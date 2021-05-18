@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-         <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">  
+         
     <table>  
         <tr>  
             <td colspan="2">User Registration  
@@ -65,7 +65,7 @@
             </td>  
         </tr>  
     </table>  
-</asp:Content>  
+
     </form>
 </body>
 </html>

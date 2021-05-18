@@ -8,11 +8,10 @@
 </head>
 <body>
     <form id="form1" runat="server">
-     <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">  
-        <br />  
+   
         <asp:Label runat="server" ID="lblCaptchaMessage" ForeColor="Green">  
         </asp:Label>  
-    </asp:Content>  
+   
     </form>
 </body>
 </html>
