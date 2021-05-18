@@ -13,7 +13,7 @@ namespace DevopsPOC
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            lblCaptchaMessage.Text = "You have entered correct captch code";
+            lblCaptchaMessage.Text = "https://chandrasekhardesireddi.wordpress.com/";
             lblCaptchaMessage.ForeColor = System.Drawing.Color.Green;
         }
 
